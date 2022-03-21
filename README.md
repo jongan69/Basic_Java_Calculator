@@ -8,11 +8,9 @@ Basic 5 feat. Calculator in Java.
 4. Division
 5. Fibonachi to First Entry
 
-# To Compile
-`javac Calc.java`
-
-# To Build
+# To Compile / Build
 `javac -d ./build *.java`
+`jar cfe app.jar Calc Calc.class`
 
 # To Run
 `java -jar app.jar
