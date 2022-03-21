@@ -1,4 +1,4 @@
-// import java.util.*;
+package build;
 import java.util.Scanner;
 
 public class Calc {
@@ -73,5 +73,4 @@ public class Calc {
         System.out.print("The last value in the Fib was: "+n3);    
         return n3;
     }
-
 }
