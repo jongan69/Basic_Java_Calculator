@@ -14,4 +14,4 @@ Basic 5 feat. Calculator in Java.
 3. `jar cfe app.jar Calc.class`
 
 # To Run
-`java -jar app.jar
+`java -jar app.jar`
